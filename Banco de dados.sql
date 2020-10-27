@@ -1,0 +1,1 @@
+SELECT * FROM cleonails.new_table;
