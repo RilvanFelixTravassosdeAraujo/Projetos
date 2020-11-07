@@ -1,1 +1,1 @@
-SELECT * FROM cleonails.new_table;
+CREATE database `CleoNails` ;
